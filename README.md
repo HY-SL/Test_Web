@@ -2,7 +2,7 @@
 # 华中科技大学狼牙战队官方网站
 
 ## 演示
-请访问 **[www.hustlangya.fun](https://www.hustlangya.fun)** 🚀
+请访问 **[hy-sl.github.io/Test_Web](https://hy-sl.github.io/Test_Web)** 🚀
 
 _本项目基于 [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs) 构建_
 
